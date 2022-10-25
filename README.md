@@ -1,4 +1,4 @@
-# Learn-roadmaps
+# Learning How to Learn
 Learning resources, roadmaps, tips and tools to learn c, c++, sql, mongodb, frameworks, web, mobile etc
 
 # Books
