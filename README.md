@@ -11,18 +11,21 @@ Guide to studying anything... Educational technology. Creative techniques. Learn
 # Get Started... Roadmaps
 Last scopes (log):
 - RISC and CISC
-- embedded systems
-- internet of things
-- data science
-- mobile
-- web back-end
-- web front-end
+- Embedded systems
+- Digital Signal Processing
+- Internet of things
+- Data Science
+- Mobile
+- Web back-end
+- Web front-end
 - UX/UI
-- web fullstack
-- computer graphics
+- Web Fullstack
+- Graphics design
+- CGI, VFX, SFX
 - XR: AR, VR, MR
-- game design
-- live audiovisuals
+- Game Design
+- Live Coding
+- Video Mapping
 - Storytelling prompts
 
 # Courses (MOOCS/SPOCS)
