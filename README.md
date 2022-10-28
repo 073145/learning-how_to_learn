@@ -2,10 +2,12 @@
 Guide to studying anything... Educational technology. Creative techniques. Learning resources, roadmaps, tips and tools to research and development autodidactics. Cognitive Science insights. Data visualization, diagrams, (info)graphs, mind maps etc 
 
 # Books
-- Didacta magna, Comenius (1649)
-- The dynamic ideography, Pierre Levy (1992)
-- Antifragile: Things That Gain From Disorder, Nassim Taleb (2012)
-- The True Creator of Everything, Miguel Nicolelis (2020)
+- (1649) Didacta magna, Comenius 
+- (1987) Chaos: Making a New Science, James Gleick
+- (1992) The dynamic ideography, Pierre Levy 
+- (2012) Antifragile: Things That Gain From Disorder, Nassim Taleb
+- (2019) The Oracle of Night, Sidarta Ribeiro
+- (2020) The True Creator of Everything, Miguel Nicolelis 
 
 # Communities
 - Quora
