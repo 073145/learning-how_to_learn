@@ -39,13 +39,16 @@ Subjects list (log):
 - Storytelling prompts
 
 # Courses (MOOCS/SPOCS)
-- edx
-- coursera
+- EDX: https://www.edx.org/search?tab=course
+- Coursera: https://www.coursera.org/browse
+- The Open University: https://www.open.edu/openlearn/free-courses/full-catalogue
 
-# Tools
-- slideshare
-- prezi
-- trello
+# Tools / Apps
+- Slideshare
+- Prezi
+- Trello
+- Google Keep
+- Google Drive
 
 # Podcasts
 - 
