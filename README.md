@@ -19,7 +19,7 @@ Guide to studying anything... Educational technology. Creative techniques. Learn
 - Reddit
 
 # Get Started... Roadmaps
-Last scopes (log):
+Subjects list (log):
 - RISC and CISC
 - Embedded systems
 - Digital Signal Processing
