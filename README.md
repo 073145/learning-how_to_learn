@@ -9,10 +9,12 @@ Guide to studying anything... Educational technology. Creative techniques. Learn
 - (1987) Chaos: Making a New Science; James Gleick
 - (1992) The dynamic ideography; Pierre Levy 
 - (2012) Antifragile: Things That Gain From Disorder; Nassim Taleb
+- (2013) Spark: The Revolutionary New Science of Exercise and the Brain; John J. Ratey
 - (2014) Superintelligence: Paths, Dangers, Strategies; Nick Bostrom
 - (2018) The Great Mental Models Volume 1: General Thinking Concepts; Rhiannon Beaubien
 - (2019) The Oracle of Night; Sidarta Ribeiro
 - (2019) Range: Why Generalists Triumph in a Specialized World; David Epstein
+- (2019) Learning Chaos Engineering: Discovering and Overcoming System Weaknesses Through Experimentation; Russ Miles
 - (2020) The True Creator of Everything; Miguel Nicolelis 
 
 # Communities
