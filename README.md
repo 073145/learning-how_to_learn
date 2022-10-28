@@ -2,6 +2,7 @@
 Guide to studying anything... Educational technology. Creative techniques. Learning resources, roadmaps, tips and tools to research and development autodidactics. Cognitive Science insights. Data visualization, diagrams, (info)graphs, mind maps etc 
 
 # Books
+- (1582) De Umbris Idearum, Giordano Bruno
 - (1649) Didacta magna, Comenius 
 - (1987) Chaos: Making a New Science, James Gleick
 - (1992) The dynamic ideography, Pierre Levy 
