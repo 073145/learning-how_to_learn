@@ -3,6 +3,7 @@ Guide to studying anything... Educational technology. Creative techniques. Learn
 
 # Books
 - (1582) De Umbris Idearum, Giordano Bruno
+- (1582) Ars memoriae, Giordano Bruno
 - (1649) Didacta magna, Comenius 
 - (1987) Chaos: Making a New Science, James Gleick
 - (1992) The dynamic ideography, Pierre Levy 
@@ -41,6 +42,7 @@ Last scopes (log):
 # Tools
 - slideshare
 - prezi
+- trello
 
 # Podcasts
 - 
