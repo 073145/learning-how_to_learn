@@ -41,7 +41,7 @@ Subjects list (log):
 - Game Design
 - Live Coding
 - Interactive art
-- Video Mapping
+- Projection Mapping
 - Storytelling prompts
 
 # Courses (MOOCS/SPOCS)
