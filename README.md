@@ -5,16 +5,25 @@ Guide to studying anything... Educational technology. Creative techniques. Learn
 - Didacta magna, Comenius (1649)
 
 # Communities
-- 
+- Quora
+- Reddit
 
 # Get Started... Roadmaps
-Last scopes (logs):
-- back end
-- front end
-- fullstack
-- embedded
+Last scopes (log):
+- RISC and CISC
+- embedded systems
+- internet of things
 - data science
-- iot
+- mobile
+- web back-end
+- web front-end
+- UX/UI
+- web fullstack
+- computer graphics
+- XR: AR, VR, MR
+- game design
+- live audiovisuals
+- Storytelling prompts
 
 # Courses (MOOCS/SPOCS)
 - edx
@@ -25,6 +34,8 @@ Last scopes (logs):
 - prezi
 
 # Podcasts
+- 
 
 # Youtube Channels
+- 
 
