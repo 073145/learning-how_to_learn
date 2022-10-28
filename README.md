@@ -2,7 +2,15 @@
 Learning resources, roadmaps, tips and tools to learn development, database, web, mobile etc
 
 # Books
+- Didacta magna, Comenius (1649)
 
 # Communities
+- 
 
-# Courses, MOOCS/SPOCS
+# Get Started... Roadmaps
+-
+
+# Courses (MOOCS/SPOCS)
+-
+
+
