@@ -3,6 +3,9 @@ Guide to studying anything... Educational technology. Creative techniques. Learn
 
 # Books
 - Didacta magna, Comenius (1649)
+- The dynamic ideography, Pierre Levy (1992)
+- Antifragile: Things That Gain From Disorder, Nassim Taleb (2012)
+- The True Creator of Everything, Miguel Nicolelis (2020)
 
 # Communities
 - Quora
