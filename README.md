@@ -2,6 +2,7 @@
 Guide to studying anything... Educational technology. Creative techniques. Learning resources, roadmaps, tips and tools to research and development autodidactics. Cognitive Science insights. Data visualization, diagrams, (info)graphs, mind maps etc 
 
 # Books
+...RTFB
 - (1582) De Umbris Idearum, Giordano Bruno
 - (1582) Ars memoriae, Giordano Bruno
 - (1649) Didacta magna, Comenius 
@@ -9,6 +10,7 @@ Guide to studying anything... Educational technology. Creative techniques. Learn
 - (1992) The dynamic ideography, Pierre Levy 
 - (2012) Antifragile: Things That Gain From Disorder, Nassim Taleb
 - (2019) The Oracle of Night, Sidarta Ribeiro
+- (2019) Range: Why Generalists Triumph in a Specialized World, David Epstein
 - (2020) The True Creator of Everything, Miguel Nicolelis 
 
 # Communities
