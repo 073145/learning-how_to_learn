@@ -2,17 +2,18 @@
 Guide to studying anything... Educational technology. Creative techniques. Learning resources, roadmaps, tips and tools to research and development autodidactics. Cognitive Science insights. Data visualization, diagrams, (info)graphs, mind maps etc 
 
 # Reference works... RFTB!
-- (1582) De Umbris Idearum, Giordano Bruno
-- (1582) Ars memoriae, Giordano Bruno
-- (1649) Didacta magna, Comenius 
-- (1975) An Introduction to General Systems Thinking
-- (1987) Chaos: Making a New Science, James Gleick
-- (1992) The dynamic ideography, Pierre Levy 
-- (2012) Antifragile: Things That Gain From Disorder, Nassim Taleb
-- (2018) The Great Mental Models Volume 1: General Thinking Concepts, Rhiannon Beaubien
-- (2019) The Oracle of Night, Sidarta Ribeiro
-- (2019) Range: Why Generalists Triumph in a Specialized World, David Epstein
-- (2020) The True Creator of Everything, Miguel Nicolelis 
+- (1582) De Umbris Idearum; Giordano Bruno
+- (1582) Ars memoriae; Giordano Bruno
+- (1649) Didacta magna; Comenius 
+- (1975) An Introduction to General Systems Thinking; Gerald Weinberg
+- (1987) Chaos: Making a New Science; James Gleick
+- (1992) The dynamic ideography; Pierre Levy 
+- (2012) Antifragile: Things That Gain From Disorder; Nassim Taleb
+- (2014) Superintelligence: Paths, Dangers, Strategies; Nick Bostrom
+- (2018) The Great Mental Models Volume 1: General Thinking Concepts; Rhiannon Beaubien
+- (2019) The Oracle of Night; Sidarta Ribeiro
+- (2019) Range: Why Generalists Triumph in a Specialized World; David Epstein
+- (2020) The True Creator of Everything; Miguel Nicolelis 
 
 # Communities
 - Quora
@@ -23,6 +24,8 @@ Subjects list (log):
 - RISC and CISC
 - Embedded systems
 - Digital Signal Processing
+- Telecommunications
+- Computer networks
 - Internet of things
 - Data Science
 - Mobile
