@@ -40,6 +40,7 @@ Subjects list (log):
 - XR: AR, VR, MR
 - Game Design
 - Live Coding
+- Interactive art
 - Video Mapping
 - Storytelling prompts
 
