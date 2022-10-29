@@ -52,7 +52,9 @@ Subjects list [log]:
 - EDX: https://www.edx.org/search?tab=course
 - Mit OpenCourseWare: https://ocw.mit.edu/
 - Coursera: https://www.coursera.org/browse
+- Khan Academy: https://www.khanacademy.org/
 - The Open University: https://www.open.edu/openlearn/free-courses/full-catalogue
+- Open Education Europa: https://www.openeducationeuropa.eu/en
 
 
 # Tools / Apps
