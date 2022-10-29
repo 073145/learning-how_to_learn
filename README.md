@@ -51,7 +51,7 @@ Subjects list [log]:
 - Projection Mapping
 - Storytelling prompts
 
-# Courses (MOOCS/SPOCS)
+# Courses platforms
 - EDX: https://www.edx.org/search?tab=course
 - Mit OpenCourseWare: https://ocw.mit.edu/
 - Coursera: https://www.coursera.org/browse
@@ -59,7 +59,10 @@ Subjects list [log]:
 - The Open University: https://www.open.edu/openlearn/free-courses/full-catalogue
 - (OFF) Open Education Europa: https://www.openeducationeuropa.eu/en
 - MongoDB University: https://university.mongodb.com/courses/catalog
-
+- Harvard University Courses: https://pll.harvard.edu/catalog
+- University of Cambridge: https://www.ice.cam.ac.uk/courses/search/type/online-course
+- Microsoft Training Days: https://www.microsoft.com/en-ie/training-days
+- Free code camp: https://www.freecodecamp.org/learn
 
 # Tools / Apps
 - Slideshare - 
