@@ -27,7 +27,9 @@ Educational technology. Creative techniques. Learning resources, roadmaps, tips 
 
 # Get Started! Roadmaps...
 Subjects list [log]:
-- RISC and CISC
+- Harvard x Neumann
+- Microkernel x Monolithic
+- RISC x CISC
 - Embedded systems
 - Digital Signal Processing
 - Telecommunications
@@ -38,6 +40,7 @@ Subjects list [log]:
 - Web back-end
 - Web front-end
 - UX/UI
+- Neuromarketing
 - Web Fullstack
 - Graphics design
 - CGI, VFX, SFX
@@ -54,7 +57,8 @@ Subjects list [log]:
 - Coursera: https://www.coursera.org/browse
 - Khan Academy: https://www.khanacademy.org/
 - The Open University: https://www.open.edu/openlearn/free-courses/full-catalogue
-- Open Education Europa: https://www.openeducationeuropa.eu/en
+- (OFF) Open Education Europa: https://www.openeducationeuropa.eu/en
+- MongoDB University: https://university.mongodb.com/courses/catalog
 
 
 # Tools / Apps
