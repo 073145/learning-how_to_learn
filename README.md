@@ -34,6 +34,7 @@ Subjects list [log]:
 - Digital Signal Processing
 - Telecommunications
 - Computer networks
+- Cyber-security
 - Internet of things
 - Data Science
 - Mobile
@@ -42,9 +43,9 @@ Subjects list [log]:
 - UX/UI
 - Neuromarketing
 - Web Fullstack
+- XR: AR, VR, MR
 - Graphics design
 - CGI, VFX, SFX
-- XR: AR, VR, MR
 - Game Design
 - Live Coding
 - Interactive art
