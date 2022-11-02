@@ -27,6 +27,7 @@ Educational technology. Creative techniques. Learning resources, roadmaps, tips 
 
 # Articles
 - [The science of learning | Big Think](https://www.youtube.com/playlist?list=PL5uULy4b0kV4M0zlwaRUdSGbReW6eJ2S2)
+- [Inside the minds of great programmers | Big Think](https://www.youtube.com/playlist?list=PL5uULy4b0kV5jQOf6XEgfghOWN-PQISwT)
 
 # Get Started! Roadmaps...
 X, Y, Z
