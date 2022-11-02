@@ -8,6 +8,7 @@ Spinoza
 Voltaire
 Kant
 David Hume
+Thomas More
 Thomas Paine
 William Godwin
 Husserl
