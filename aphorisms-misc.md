@@ -9,7 +9,7 @@ Voltaire
 Kant
 David Hume
 Thomas Paine
-Karl Popper
+Husserl
 Kurt Gödel
 Bertrand Russell
 Wittgeinstein
