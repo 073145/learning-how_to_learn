@@ -20,6 +20,9 @@ Educational technology. Creative techniques. Learning resources, roadmaps, tips 
 - (2020) The True Creator of Everything; Miguel Nicolelis 
 
 # Communities
+- https://disboard.org
+- https://discord.me
+- https://top.gg
 - https://reddit.com/
 - https://pt.quora.com/
 - https://stackoverflow.com/questions
