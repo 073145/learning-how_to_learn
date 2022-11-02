@@ -9,6 +9,7 @@ Voltaire
 Kant
 David Hume
 Thomas Paine
+William Godwin
 Husserl
 Kurt Gödel
 Bertrand Russell
