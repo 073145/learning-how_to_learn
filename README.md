@@ -26,31 +26,10 @@ Educational technology. Creative techniques. Learning resources, roadmaps, tips 
 - https://meta.stackexchange.com/
 
 # Get Started! Roadmaps...
+X, Y, Z
 Subjects list [log]:
-- Harvard x Neumann
-- Microkernel x Monolithic
-- RISC x CISC
-- Embedded systems
-- Digital Signal Processing
-- Telecommunications
-- Computer networks
-- Cyber-security
-- Internet of things
-- Data Science
-- Mobile
-- Web back-end
-- Web front-end
-- UX/UI
-- Neuromarketing
-- Web Fullstack
-- XR: AR, VR, MR
-- Graphics design
-- CGI, VFX, SFX
-- Game Design
-- Live Coding
-- Interactive art
-- Projection Mapping
-- Storytelling prompts
+- .
+
 
 # Courses platforms
 - EDX: https://www.edx.org/search?tab=course
