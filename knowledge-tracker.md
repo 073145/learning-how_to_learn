@@ -1,1 +1,27 @@
-.
+...
+- Harvard x Neumann
+- Microkernel x Monolithic
+- RISC x CISC
+- Embedded systems
+- Digital Signal Processing
+- Telecommunications
+- Computer networks
+- Cyber-security
+- Internet of things
+- Data Science
+- Mobile
+- Web back-end
+- Web front-end
+- UX/UI
+- Neuromarketing
+- Web Fullstack
+- XR: AR, VR, MR
+- Graphics design
+- 2D design
+- 3d modeling
+- CGI, VFX, SFX
+- Game Design
+- Live Coding
+- Interactive art
+- Projection Mapping
+- Storytelling prompts
