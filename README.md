@@ -59,6 +59,6 @@ Subjects list [log]:
 # Podcasts
 - 
 
-# Yt Channels
+# Youtube Channels
 - 
 
