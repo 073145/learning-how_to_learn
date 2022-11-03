@@ -34,6 +34,7 @@ Educational technology. Creative techniques. Learning resources, roadmaps, tips 
 - [Missionary Church of Kopimism](https://en.m.wikipedia.org/wiki/Missionary_Church_of_Kopimism)
 - [Gift Economy](https://en.m.wikipedia.org/wiki/Gift_economy)
 - [Information wants to be free](https://en.m.wikipedia.org/wiki/Information_wants_to_be_free)
+- [Free-culture Movement](https://en.m.wikipedia.org/wiki/Free-culture_movement)
 
 # Get Started! Roadmaps...
 X, Y, Z
@@ -52,6 +53,7 @@ Subjects list [log]:
 - University of Cambridge: https://www.ice.cam.ac.uk/courses/search/type/online-course
 - Microsoft Training Days: https://www.microsoft.com/en-ie/training-days
 - Free code camp: https://www.freecodecamp.org/learn
+- 
 
 # Tools / Apps
 - Slideshare - 
