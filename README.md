@@ -1,5 +1,5 @@
 # Learning How to Learn
-Guide to studying anything... 
+Guide to learn anything... 
 
 Educational technology. Creative techniques. Learning resources, roadmaps, tips and tools to research and development autodidactics. Multidisciplinar pedagogy, cognitive Science insights. Diagrams, (info)graphs, mind maps etc
 
