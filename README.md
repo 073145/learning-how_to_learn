@@ -31,7 +31,8 @@ Educational technology. Creative techniques. Learning resources, roadmaps, tips 
 # Articles
 - [The science of learning | Big Think](https://www.youtube.com/playlist?list=PL5uULy4b0kV4M0zlwaRUdSGbReW6eJ2S2)
 - [Inside the minds of great programmers | Big Think](https://www.youtube.com/playlist?list=PL5uULy4b0kV5jQOf6XEgfghOWN-PQISwT)
-- [Missionary Church of Kopimism] (https://en.m.wikipedia.org/wiki/Missionary_Church_of_Kopimism)
+- [Missionary Church of Kopimism](https://en.m.wikipedia.org/wiki/Missionary_Church_of_Kopimism)
+- [Gift Economy](https://en.m.wikipedia.org/wiki/Gift_economy)
 
 # Get Started! Roadmaps...
 X, Y, Z
