@@ -228,9 +228,6 @@ Aumente sua produtividade e organize seu aprendizado com estas ferramentas.
 
 Aprender é uma jornada. Aqui você encontrará (ou criará) roteiros para explorar tópicos específicos, aplicando os princípios deste guia.
 
-* **Roadmap de Pensamento Computacional:**
-    * Se você busca aplicar esses princípios no mundo da tecnologia e algoritmos, confira meu repositório **[computhink-101](https://github.com/073145/computhink-101)**, um guia agnóstico de linguagem para dominar os fundamentos da computação.
-
 * **[Exemplo de Estrutura de Roadmaps Internos:]**
     * **`05.2.1-Roadmap-Desenvolvimento-Web-FullStack/`** (Ex: `README.md` com fases, tecnologias, recursos)
     * **`05.2.2-Roadmap-Machine-Learning/`** (Ex: `README.md` com matemática, algoritmos, frameworks)
